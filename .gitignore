@@ -1,0 +1,11 @@
+Debug/
+Release/
+ipch/
+*.vcxproj.user
+*.db
+*.sdf
+*.vs
+*.suo
+*.b3d
+*.res
+*.tga
